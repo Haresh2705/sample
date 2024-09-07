@@ -1,6 +1,2 @@
 haresh1
-<<<<<<< HEAD
 varsha3
-=======
-varsha2
->>>>>>> test2
